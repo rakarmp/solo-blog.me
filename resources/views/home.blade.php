@@ -1,2 +1,2 @@
 @extends('layouts.app')
-@include('admin.index')
+@include('admin.index') 
