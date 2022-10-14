@@ -39,12 +39,12 @@
 
             <ul class="nav nav-treeview">
               <li class="nav-item">
-                <a href="#" class="nav-link">
+                <a href="/" class="nav-link">
                   <p>Home</p>
                 </a>
               </li>
               <li class="nav-item">
-                <a href="#" class="nav-link">
+                <a href="" class="nav-link">
                   <p>Detail</p>
                 </a>
               </li>
