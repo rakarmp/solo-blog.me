@@ -14,6 +14,9 @@ class AdminController extends Controller
     public function login() {
         return view('/auth/login');
     }
-
+    
+    public function pindah() {
+        return view('/auth/register');
+    }
     
 }
